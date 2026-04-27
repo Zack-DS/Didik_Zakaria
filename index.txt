@@ -1,0 +1,262 @@
+Didik Zakaria - personal portfolio
+
+# HEDER
+
+Didik Zakaria .
+
+En
+in
+
+aria-label = Change Theme
+title = Change Theme
+
+aria-label = Toggle Menu
+title = Toggle Menu
+
+Rumah.
+T. Saya.
+Pengalaman.
+Momen.
+Kontak.
+
+
+
+# HERO
+
+alt = A man in a blue shirt with a happy expression
+
+Web Portofolio <br> Didik Zakaria
+
+Klik Untuk Menghubungi
+
+<ion-icon name="logo-facebook"></ion-icon>
+Facebook
+
+<ion-icon name="logo-instagram"></ion-icon>
+instagram
+
+<ion-icon name="logo-linkedin"></ion-icon>
+Linkedin
+
+Scroll
+
+
+
+# STATS
+
+alt = Badge icon
+
+500+
+Tik Tok
+
+<ion-icon name="chevron-forward-outline"></ion-icon>
+
+alt = Checkmark icon
+
+300+
+Instagram
+
+alt = Peoples rating icon
+
+999+
+Shopee
+
+
+
+# ABOUT
+
+alt = A man in a alice blue shirt with a thinking expression
+
+About me
+
+Ingin mengenal saya lebih dalam? Kalo gak mau sekip aja!
+
+Saya lulusan SMA Negeri 1 Bandar pada tahun 2026 Jurusan IPA, saya memiliki pengalaman organisasi sebagai Wakil Ketua OSIS serta aktif dalam kegiatan Pramuka. Pengalaman tersebut membentuk saya menjadi pribadi yang disiplin, bertanggung jawab, serta memiliki kemampuan kepemimpinan dan kerja sama tim yang baik.
+Selain itu, saya memiliki keterampilan dalam penggunaan Microsoft Office dan desain grafis dasar menggunakan Canva. Saya juga pernah mengelola toko online di Shopee yang menjual produk digital seperti token listrik, pulsa, paket data, serta menyediakan jasa fotokopi.
+Saya memiliki semangat untuk terus belajar dan berkembang, serta siap berkontribusi dalam lingkungan kerja yang dinamis.
+
+Sertifikat
+
+Lihat cv
+
+
+
+# SKILLS
+
+Pengalaman  Kursus
+Kursus Canva, CapCut dan Komputer
+
+Saya mengembangkan antarmuka pengguna yang sederhana, intuitif, dan responsif yang membantu pengguna menyelesaikan berbagai hal dengan lebih sedikit usaha dan waktu menggunakan teknologi tersebut.
+
+Skills
+Tools
+
+HTML5
+alt = HTML5 logo
+
+CSS3
+alt = CSS3 logo
+
+Al mekanik
+alt = Al Mekanik logo
+
+Menjahit
+alt = Menjahit logo
+
+Editing
+alt = Editing logo
+
+Camping
+alt = Camping logo
+
+Bersepeda
+alt = Bersepeda logo
+
+Lari
+alt = Lari logo
+
+Mengoperasikan Komputer
+alt = Komputer logo
+
+Firebase
+alt = Firebase logo
+
+PugJs
+alt = PugJs logo
+
+SASS
+alt = SASS logo
+
+
+Ajax
+alt = Ajax logo
+
+Gulp
+alt = Gulp logo
+
+Webpack
+alt = Webpack logo
+
+Git
+alt = Git logo
+
+Npm
+alt = Npm logo
+
+Command Line
+alt = Command Line logo
+
+VS Code
+alt = VS Code logo
+
+Trello
+alt = Trello logo
+
+ClickUp
+alt = ClickUp logo
+
+Slack
+alt = Slack logo
+
+Photoshop
+alt = Photoshop logo
+
+Adobe XD
+alt = Adobe XD logo
+
+
+
+# WOKRS
+
+My Works
+
+See My Works Which Will Amaze You!
+
+We develop the best quality website that serves for the long-term. Well-documented, clean, easy and elegant interface helps any non-technical clients.
+
+alt = A macintosh on a yellow background.
+Lorem Ipsum Dolor 01
+April 2022
+
+alt = On a Blue background, a Wacom and a mouse.
+Lorem Ipsum Dolor 02
+
+alt = A Cassette tape on a mellow apricot background.
+Lorem Ipsum Dolor 03
+
+alt = Blue digital watch on a dark liver background.
+Lorem Ipsum Dolor 04
+
+alt = On a dark liver background, Airport luggage car carrying a luggage.
+Lorem Ipsum Dolor 05
+
+alt = On a yellow background, a digital watch and a glass.
+Lorem Ipsum Dolor 06
+
+alt = A fujifilm instant camera on a dark electric blue background.
+Lorem Ipsum Dolor 07
+
+Load more work
+
+
+
+# CONTACT
+
+Contact
+
+Have You Any Project? Please Drop a Message
+
+Get in touch and let me know how i can help. Fill out the form and i’ll be in touch as soon as possible.
+
+<ion-icon name="location-outline"></ion-icon>
+Address:
+941 Saqrqorish Road, alandalos, grnata, wa 47122-4194
+
+<ion-icon name="call-outline"></ion-icon>
+Phone:
+(01) 234 567 789
+(09) 765 432 200
+
+<ion-icon name="mail-outline"></ion-icon>
+Email:
+info@jack.com
+support@jack.com
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+Name
+<ion-icon name="person-circle"></ion-icon>
+placeholder = e.g John Doe
+
+Email
+<ion-icon name="mail"></ion-icon>
+placeholder = e.g johndoe@mail.com
+
+Phone
+<ion-icon name="call"></ion-icon>
+placeholder = Phone Number
+
+Message
+<ion-icon name="chatbubbles"></ion-icon>
+placeholder = Write message...
+
+Send
+
+
+
+# FOOTER
+
+Jack.
+
+&copy; 2022 codewithsadee. All rights reserved
+
+
+
+# GO TO TOP
+
+title = Go to Top
+
+<ion-icon name="arrow-up"></ion-icon>
