@@ -853,16 +853,42 @@
   </div>
 
   <!-- Tombol -->
-  <button type="button" class="btn btn-primary" onclick="kirimWA(6281329641940)">
+  <!-- Tombol Kirim -->
+<button type="button" class="btn btn-primary" onclick="sendToWhatsapp(6281329641940)">
     Kirim
 </button>
-        </form>
 
-      </section>
+<!-- Script WhatsApp -->
+<script>
+function sendToWhatsapp() {
 
-    </article>
-  </main>
+    // Ambil data dari form
+    const nama = document.getElementById("name").value;
+    const email = document.getElementById("email").value;
+    const phone = document.getElementById("phone").value;
+    const message = document.getElementById("message").value;
 
+    // Nomor WhatsApp tujuan
+    const nomorWA = "6281329641940";
+
+    // Format pesan
+    const text =
+`Halo, saya ingin menghubungi Anda.
+
+Nama : ${nama}
+Email : ${email}
+No HP : ${phone}
+
+Pesan :
+${message}`;
+
+    // Link WhatsApp
+    const url = `https://wa.me/$6281329641940 text=${encodeURIComponent (Kirim pesan ke Zack.i)}`;
+
+    // Buka WhatsApp
+    window.open(url, "_blank");
+}
+</script>
 
 
 
